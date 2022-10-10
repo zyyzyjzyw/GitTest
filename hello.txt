@@ -6,3 +6,4 @@ hello git! hello zyy!
 hello git! hello zyy!
 my forth commit
 123456
+我在GitHub上添加
